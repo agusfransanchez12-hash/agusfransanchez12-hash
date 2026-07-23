@@ -32,9 +32,9 @@ I specialize in transforming raw data into strategic business solutions, optimiz
 
 ---
 
-📫 **Connect with me:**  
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whi##](https://www.linkedin.com/in/agustin-f-sanchez-20a9202a2/?isSelfProfile=true) Hi there 👋
-
+📫 **Connect with me:** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-f-sanchez-20a9202a2/)  
+📧 **Email:** agusfransanchez12@gmail.com
 <!--
 **agusfransanchez12-hash/agusfransanchez12-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
