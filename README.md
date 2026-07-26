@@ -3,7 +3,7 @@ Markdown
 
 ### 📊 Data Analyst | SQL • Python • Power BI • Business Strategy
 
-I specialize in transforming raw data into strategic business solutions, optimization metrics, and interactive dashboards. Passionate about logistics, e-commerce, and revenue growth analytics.
+I specialize in transforming raw data into strategic business solutions, optimization metrics, and interactive dashboards. Passionate about logistics, e-commerce, risk analytics, and revenue growth analytics
 
 ---
 
