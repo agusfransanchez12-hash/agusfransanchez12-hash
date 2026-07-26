@@ -30,8 +30,8 @@ I specialize in transforming raw data into strategic business solutions, optimiz
 * 🚚 **[Olist E-Commerce: Logistics & Revenue Growth Strategy](https://github.com/agusfransanchez12-hash/olist-e-commerce-logistics-strategy)**  
   *End-to-end data analysis project using SQL, Python, Power BI, and executive presentation to address logistics bottlenecks and financial risk.*
 
-  * 🏦 **[SBA Commercial Credit Risk & Loss Analysis](https://github.com/agusfransanchez12-hash/sba-commercial-credit-risk):**
-    *End-to-end credit risk project evaluating loan defaults, loss exposure ($42.1M), and underwriting strategies using SQL, Python, and Power BI.
+* 🏦 **[SBA Commercial Credit Risk & Loss Analysis](https://github.com/agusfransanchez12-hash/sba-commercial-credit-risk):**
+  *End-to-end credit risk project evaluating loan defaults, loss exposure ($42.1M), and underwriting strategies using SQL, Python, and Power BI.
 ---
 
 📫 **Connect with me:** 
